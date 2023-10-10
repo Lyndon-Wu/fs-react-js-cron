@@ -1,8 +1,8 @@
 {
-  "name": "react-js-cron",
+  "name": "fs-react-js-cron",
   "version": "5.0.0",
   "description": "A React cron editor with antd inspired by jqCron",
-  "author": "Xavier Rutayisire <xavier.rutayisire@gmail.com> (https://github.com/xrutayisire/)",
+  "author": "Xavier Rutayisire <xavier.rutayisire@gmail.com> (https://github.com/Lyndon-Wu/)",
   "license": "MIT",
   "keywords": [
     "react",
@@ -19,13 +19,13 @@
     "schedule",
     "parser"
   ],
-  "homepage": "https://github.com/xrutayisire/react-js-cron#readme",
+  "homepage": "https://github.com/Lyndon-Wu/fs-react-js-cron#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xrutayisire/react-js-cron.git"
+    "url": "git+https://github.com/Lyndon-Wu/fs-react-js-cron.git"
   },
   "bugs": {
-    "url": "https://github.com/xrutayisire/react-js-cron/issues"
+    "url": "https://github.com/Lyndon-Wu/fs-react-js-cron/issues"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
